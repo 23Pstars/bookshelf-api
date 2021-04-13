@@ -1,14 +1,14 @@
 {
-  "name": "backend",
+  "name": "bookshelf-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "nodemon ./src/server.js",
     "lint": "eslint ./src"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ahmad Zafrullah",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^7.24.0",
